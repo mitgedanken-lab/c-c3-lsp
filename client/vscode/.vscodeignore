@@ -1,5 +1,6 @@
 .vscode/**
-.gitignore
+dist/**
 **/*.map
 **/.eslintrc.json
 node_modules
+.gitignore
